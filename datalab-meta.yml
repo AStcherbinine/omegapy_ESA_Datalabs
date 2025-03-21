@@ -3,7 +3,7 @@ alternateName: OMEGA-Py
 abstract: Example use of the OMEGA-Py module to load, visualize, and analyze OMEGA/Mars Express data.
 contactPoint.email: Aurélien.Stcherbinine@irap.omp.eu
 creator.name: Aurélien Stcherbinine
-version: 0.0.2
+version: 0.0.3
 description: > 
     This jupyter datalab shows how to use the OMEGA-Py module to work with data from the OMEGA instrument onboard Mars Express.
 mission: Mars Express
